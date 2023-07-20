@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 WEB DEVELOPER. MERN STACK DEVELOPER.
 ------------------------------------
 
-My curiosity to explore the backstage of software led me to a self taught MERN Full stack web developer. Familiar with web development and web designing technologies. My technical skills are HTML, CSS, Bootstrap, JavaScript, React.js, Node.js, Express.js, MongoDB.
+My curiosity to explore the backstage of software led me to become a self-taught MERN Full Stack web developer. I am familiar with web development and web designing technologies. My technical skills include HTML, CSS, Bootstrap, JavaScript, React.js, Node.js, Express.js, and MongoDB.
 
 * 🌍  I'm based in Kerala, India
 * ✉️  You can contact me at [jyothisj149@gmail.com](mailto:jyothisj149@gmail.com)
