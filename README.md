@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 WEB DEVELOPER. MERN STACK DEVELOPER.
 ------------------------------------
 
-I am a passionate and aspiring self-taught MERN stack developer with a burning desire to innovate and create incredible web experiences. 🚀
+I am a passionate and aspiring self-taught MERN stack developer with a burning desire to innovate and create incredible web experiences 🚀.
 🌱 I am proficient in a range of web development and design technologies, including HTML, CSS, Bootstrap, JavaScript, React.js, Node.js, Express.js, and MongoDB.
 
 * 🌍  I'm based in Kerala, India
